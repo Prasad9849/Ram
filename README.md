@@ -1,2 +1,2 @@
 # Ram
-Tutorial
+Tutorial purpose
